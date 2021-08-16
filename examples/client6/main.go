@@ -5,6 +5,7 @@ import (
 	"log"
 
 	"github.com/insomniacslk/dhcp/dhcpv6/client6"
+	"github.com/insomniacslk/dhcp/dhcpv6"
 )
 
 var (
